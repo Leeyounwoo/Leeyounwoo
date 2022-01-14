@@ -8,7 +8,7 @@
 
 - **graduated from** `Chonnam National University` 👨‍🎓
 - **majored in** `Industrial Engineering` 📊
-- **majored in** `Computer & Information Engineering`:computer:
+- **minored in** `Computer & Information Engineering`:computer:
 - **learning SW in** `SAMSUNG SW ACADEMY FOR YOUTH (a.k.a. SSAFY)` 👨‍💻
 
 
