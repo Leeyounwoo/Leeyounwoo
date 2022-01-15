@@ -33,5 +33,5 @@
 
 ## Baekjoon Online Judge
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=deu03093)](https://solved.ac/hong267/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=deu03093)](https://solved.ac/deu03093/)
 
