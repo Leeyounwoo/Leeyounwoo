@@ -35,8 +35,4 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=deu03093)](https://solved.ac/deu03093/)
 
-<div align=center>
 
-![Leeyounwoo's github stats](https://github-readme-stats.vercel.app/api?username=Leeyounwoo&show_icons=true&theme=merko)
-
-</div>
